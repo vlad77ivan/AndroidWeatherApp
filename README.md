@@ -1,4 +1,3 @@
-# IVAN I. Vlad SRIC1-A
+# Android Weather App
 
-App topic: A weather app with customizable alerts
-API: https://openweathermap.org/api
+A weather app developed using the OpenWeatherMap API available at: https://openweathermap.org/api.
